@@ -6,11 +6,11 @@ export default function Hero() {
     <section className="overflow-hidden bg-background px-4 py-24 md:py-36">
       <div className="mx-auto flex max-w-4xl flex-col items-center gap-8 text-center">
         <h1 className="animate-appear bg-gradient-to-b from-foreground to-muted-foreground bg-clip-text text-5xl font-semibold leading-tight text-transparent drop-shadow-2xl md:text-7xl md:leading-tight">
-          Salon Schönheit
+          Makkas Hairdresser & Cosmetics
         </h1>
 
         <p className="animate-appear max-w-[480px] text-lg font-medium text-muted-foreground opacity-0 [animation-delay:150ms] md:text-xl">
-          Ihr Friseur in Schwabing, München
+          Ihr Friseur in der Schwanthalerstraße 40, 80336 München, München
         </p>
 
         <div className="animate-appear flex flex-col items-center gap-4 opacity-0 [animation-delay:300ms] sm:flex-row">
