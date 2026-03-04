@@ -5,11 +5,11 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Salon Schönheit - Ihr Friseur in Schwabing, München',
-  description: 'Professionelle Friseurdienstleistungen in München Schwabing. Haarschnitt, Färben, Styling und mehr. Vereinbaren Sie jetzt Ihren Termin!',
+  title: 'Makkas Hairdresser & Cosmetics - Ihr Friseur in der Schwanthalerstraße 40, 80336 München',
+  description: 'Professionelle Friseurdienstleistungen im Herzen von München. Haarschnitt, Färben, Styling und mehr. Vereinbaren Sie jetzt Ihren Termin!',
   openGraph: {
-    title: 'Salon Schönheit - Ihr Friseur in Schwabing, München',
-    description: 'Professionelle Friseurdienstleistungen in München Schwabing. Haarschnitt, Färben, Styling und mehr.',
+    title: 'Makkas Hairdresser & Cosmetics - Ihr Friseur in der Schwanthalerstraße 40, 80336 München',
+    description: 'Professionelle Friseurdienstleistungen im Herzen von München. Haarschnitt, Färben, Styling und mehr.',
     type: 'website',
     locale: 'de_DE',
   },
